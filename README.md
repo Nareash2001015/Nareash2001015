@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nareash</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nareash20010150&label=Profile%20views&color=0e75b6&style=flat" alt="nareash20010150" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nareash20010150&label=Profile%20views&color=0e75b6&style=flat" alt="nareash20010150" /> 
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareash20010150&show_icons=true&locale=en&layout=compact" alt="nareash20010150" />
 </p>
