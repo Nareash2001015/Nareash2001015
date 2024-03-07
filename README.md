@@ -2,12 +2,13 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nareash20010150&label=Profile%20views&color=0e75b6&style=flat" alt="nareash20010150" /> 
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareash20010150&show_icons=true&locale=en&layout=compact" alt="nareash20010150" />
-</p>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareash20010150&" alt="nareash20010150" />
 <img  src="https://github-readme-stats.vercel.app/api?username=nareash20010150&show_icons=true&locale=en" alt="nareash20010150" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareash20010150&show_icons=true&locale=en&layout=compact" alt="nareash20010150" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nareash20010150" alt="nareash20010150" /></a> </p>
