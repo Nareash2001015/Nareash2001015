@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nareash</h1>
-![image](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif)
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nareash20010150&" alt="nareash20010150" />
 <img  src="https://github-readme-stats.vercel.app/api?username=nareash20010150&show_icons=true&locale=en" alt="nareash20010150" />
