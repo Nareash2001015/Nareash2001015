@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nareash</h1>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nareash20010150&" alt="nareash20010150" />
-<img  src="https://github-readme-stats.vercel.app/api?username=nareash20010150&show_icons=true&locale=en" alt="nareash20010150" />
+<p>I'm an adaptable software engineer with a passion for problem-solving and a growing interest in DevOps. I thrive on crafting efficient, scalable solutions and streamlining processes. Committed to continuous learning and collaboration, I excel in writing clean code and exploring DevOps practices.
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nareash20010150&show_icons=true&locale=en&layout=compact" alt="nareash20010150" />
-</p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nareash-vijayaragavan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nareash-vijayaragavan/" height="30" width="40" /></a>
